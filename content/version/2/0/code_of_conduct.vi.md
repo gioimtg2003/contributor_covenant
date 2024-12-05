@@ -76,8 +76,8 @@ Các lãnh đạo cộng đồng sẽ tuân theo các Nguyên tắc Tắc độn
 
 ## Ghi nhận nguồn
 
-Quy tắc ứng xử này được điều chỉnh từ [Contributor Covenant][homepage],phiên bản 2.1, có sẵn tại
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+Quy tắc ứng xử này được điều chỉnh từ [Contributor Covenant][homepage],phiên bản 2.0, có sẵn tại
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.0].
 
 Hướng dẫn tác động cộng đồng được lấy cảm hứng từ
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
@@ -87,7 +87,7 @@ Hướng dẫn tác động cộng đồng được lấy cảm hứng từ
 [https://www.contributor-covenant.org/translations][translations].
 
 [homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
