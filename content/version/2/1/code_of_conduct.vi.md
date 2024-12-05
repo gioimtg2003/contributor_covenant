@@ -40,7 +40,7 @@ Quy tắc Ứng xử này áp dụng trong tất cả các không gian cộng đ
 
 ## Thực thi
 
-Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể chấp nhận khác có thể được báo cáo cho các lãnh đạo cộng đồng chịu trách nhiệm thực thi theo phương thức liên lạc [THÊM PHƯƠNG THỨC LIÊN HỆ].
+Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể chấp nhận khác có thể được báo cáo cho các lãnh đạo cộng đồng chịu trách nhiệm thực thi theo phương thức liên lạc contact@nguyenconggioi.me.
 
 Tất cả các khiếu nại sẽ được xem xét và điều tra nhanh chóng và công bằng.
 
